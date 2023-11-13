@@ -19,7 +19,11 @@ export default function Главная() {
       </p>
       <p>
         Ссылка на исходный код{" "}
-        <a href="http://github.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/KirikLit/synergy-project"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           тут
         </a>
       </p>
