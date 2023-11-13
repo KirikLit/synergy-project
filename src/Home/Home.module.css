@@ -1,0 +1,11 @@
+.title {
+  padding: 15px;
+  font-weight: 900;
+  font-size: 48px;
+  color: #12265e;
+  filter: drop-shadow(1px 1px 3px #386cfab7);
+}
+
+.container {
+  margin: 0 30px;
+}

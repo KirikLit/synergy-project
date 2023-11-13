@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: azure;
+  background-image: url("../public/bg.jpg");
+  background-size: cover;
+}
+
+.App {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 20px;
+  box-sizing: border-box;
+  height: calc(100vh - 60px);
+}
+
+h1 {
+  margin: 0;
+}

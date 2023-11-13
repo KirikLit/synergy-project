@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  padding: 5px 10px;
+}
+.author {
+}
+.text {
+  font-weight: 400;
+  margin-left: 5px;
+}

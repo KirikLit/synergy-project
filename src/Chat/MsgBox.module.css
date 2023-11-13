@@ -1,0 +1,10 @@
+.box {
+  background-color: azure;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px #518ae0;
+  height: 400px;
+}
+
+p {
+  margin: 0;
+}
